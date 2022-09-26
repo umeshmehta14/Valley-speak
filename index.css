@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDPMincho&family=Dancing+Script&family=Josefin+Sans:wght@200&family=Lobster&display=swap');
+body {
+    background-color: #a7a7a7;
+}
+
+.top {
+    background-color: #c2c3c5;
+    height: 13vw;
+    justify-content: center;
+    width: 100%;
+    color: #fefefe;
+    border: 2px solid rgb(255, 255, 255);
+    text-align: center;
+    font-family: "BIZ UDPMincho", serif;
+    font-size: 10vw;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    text-shadow: 2px 2px 2px black;
+    box-shadow: 1px 0px 14px hsl(240, 3%, 39%);
+}
+
+textarea {
+    background-color: rgb(194, 187, 187);
+    color: rgb(0, 0, 0);
+    width: 50%;
+    height: 8rem;
+    font-size: 1rem;
+    margin: auto;
+    padding: 0.5rem;
+    margin-top: 55px;
+    display: block;
+    border: 2px solid rgb(19, 19, 19);
+}
+
+textarea:hover {
+    box-shadow: 1px 0px 14px rgb(1, 1, 1);
+}
+
+#btn-translate {
+    margin: auto;
+    height: 2rem;
+    width: 6rem;
+    padding: 0rem;
+    border-radius: 15px;
+    background-color: #ffffff91;
+    color: black;
+}
+
+#btn-translate:hover {
+    background-color: black;
+    box-shadow: 1px 0px 14px rgb(255, 255, 255);
+    color: white;
+}
+
+#output {
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.o-head {
+    font-family: 'Roboto', sans-serif;
+    font-size: xx-large;
+    color: rgb(26, 17, 17);
+    text-shadow: 1px 0px 14px rgb(255, 255, 255);
+}
+
+.container {
+    margin: 0rem 0.5rem;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: xx-large;
+    color: white;
+    text-shadow: 1px 0px 14px rgb(132, 132, 226);
+}
+
+#output {
+    background-color: rgb(194, 187, 187);
+    color: white;
+    width: 50%;
+    height: 8rem;
+    font-size: larger;
+    margin: auto;
+    padding: 0.5rem;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    display: block;
+    border: 2px solid rgb(19, 19, 19);
+
+}
+
+#output:hover {
+    box-shadow: 1px 0px 14px rgb(1, 1, 1);
+    color: black;
+    background-color: rgb(255, 255, 255);
+}
+
+.top1 {
+    background-color: #a7a7a7;
+    height: fit-content;
+    width: 100%;
+    color: #05070a;
+    border: 2px solid rgb(52, 2, 52);
+    text-align: center;
+    font-family: "BIZ UDPMincho", serif;
+    /* font-size: 100px; */
+    box-shadow: 1px 0px 14px #d1d1d5;
+}
