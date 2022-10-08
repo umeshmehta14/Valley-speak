@@ -1,3 +1,5 @@
+Tap here to quick review of my project :- https://velvety-vacherin-dadd9b.netlify.app/
+
 ABOUT SITE :- This is an simple world translator site. In this you can enter your text and it is translated into a  valley speak language through an api.
 
 I LEARN IN THIS SITE :- In this site you can learn how to fetch data from api.
